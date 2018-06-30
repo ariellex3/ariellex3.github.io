@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Creativity, Community & Compassion"
-date:       2018-06-30 21:36:17 +0000
+date:       2018-06-30 17:36:18 -0400
 permalink:  creativity_community_and_compassion
 ---
 
 
-The very first gift I  remember receiving was a computer from my grandmother when I was 3 or 4 years old. I remember being completely fascinated by the things it could do. Since then, as is the case with most millenials, technology has been a huge part of my everyday life. I remember spending hours on Myspace crafting the perfect layout for myself and my friends. Little did I know I was literally programming the computer to display the profile that I wanted the world to see. This influenced me to take a couple Intro to Programming classes in high school and college, but I never dove in completely. I went on to receive my Bachelor's Degree in Communication with a minor in Spanish from the University of Illinois at Urbana-Champaign. After college, I found full-time work as a Finance Assistant. I have sinced worked my way up to Assistant Manager of Operations. While I have enjoyed the experience and have gained a lot of valuable skills - something always brings me back to computers & tech. After researching and reflecting on my love for technology and language, I found the Flatiron Full Stack Web Development program and sent in my application. 
+The very first gift I  remember receiving was a computer from my grandmother when I was 3 or 4 years old. I remember being completely fascinated by the things it could do. Since then, as is the case with most millennials, technology has been a huge part of my everyday life. I remember spending hours on Myspace crafting the perfect layout for myself and my friends. Little did I know I was literally programming the computer to display the profile that I wanted the world to see. This influenced me to take a couple Intro to Programming classes in high school and college, but I never dove in completely. I went on to receive my Bachelor's Degree in Communication with a minor in Spanish from the University of Illinois at Urbana-Champaign. After college, I found full-time work as a Finance Assistant. Since then I have worked my way up to Assistant Manager of Operations. While I have enjoyed the experience and have gained a lot of valuable skills - something always brings me back to computers & tech. After researching and reflecting on my love for technology and language, I found the Flatiron Full Stack Web Development program and sent in my application. 
 
 A few things I'd love to embrace while on my journey to becoming a software engineer include:
 
